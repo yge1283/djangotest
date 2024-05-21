@@ -128,5 +128,5 @@ DEFAULT_AUTO_FIELD = "django.db.models.BigAutoField"
 
 # CORS 추가
 CORS_ORIGIN_WHITELIST = (
-    'http://127.0.0.1:8000', 'http://localhost:3000',http://13.209.98.36:9999)
+    'http://127.0.0.1:8000', 'http://localhost:3000','http://13.209.98.36:9999')
 CORS_ALLOW_CREDENTIALS = True
